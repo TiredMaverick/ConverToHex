@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\ConverToHex\bin\Debug\netcoreapp3.1\ConverToHex.exe
+C:\Users\Administrator\Downloads\ConverToHex\bin\Debug\netcoreapp3.1\ConverToHex.deps.json
+C:\Users\Administrator\Downloads\ConverToHex\bin\Debug\netcoreapp3.1\ConverToHex.runtimeconfig.json
+C:\Users\Administrator\Downloads\ConverToHex\bin\Debug\netcoreapp3.1\ConverToHex.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\ConverToHex\bin\Debug\netcoreapp3.1\ConverToHex.dll
+C:\Users\Administrator\Downloads\ConverToHex\bin\Debug\netcoreapp3.1\ConverToHex.pdb
+C:\Users\Administrator\Downloads\ConverToHex\obj\Debug\netcoreapp3.1\ConverToHex.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\ConverToHex\obj\Debug\netcoreapp3.1\ConverToHex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ConverToHex\obj\Debug\netcoreapp3.1\ConverToHex.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ConverToHex\obj\Debug\netcoreapp3.1\ConverToHex.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ConverToHex\obj\Debug\netcoreapp3.1\ConverToHex.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ConverToHex\obj\Debug\netcoreapp3.1\ConverToHex.dll
+C:\Users\Administrator\Downloads\ConverToHex\obj\Debug\netcoreapp3.1\ConverToHex.pdb
+C:\Users\Administrator\Downloads\ConverToHex\obj\Debug\netcoreapp3.1\ConverToHex.genruntimeconfig.cache
